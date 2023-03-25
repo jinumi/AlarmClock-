@@ -13,16 +13,13 @@ This is a simple alarm clock script written in Python that allows the user to se
 
 1. Clone the repository to your local machine.
 2. Install the playsound module by running the following command in your terminal:
-
- pip install playsound
+    pip install playsound
 
 ### Usage
 
 1. Open the terminal and navigate to the directory where the script is located.
 2. Run the script by executing the following command:
-
- python alarm_clock.py
-
+    python alarm_clock.py
 3. Enter the time of the alarm in the following format: HH:MM:SS AM/PM
 4. Wait for the alarm to go off at the specified time.
 
